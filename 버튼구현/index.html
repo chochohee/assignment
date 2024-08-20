@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>button</title>
+    <link rel="stylesheet" href="reset.css" />
+    <style>
+      :root {
+        /* color */
+        --main-color: #343f50;
+        --lightgray-color: #cbd5df;
+        --skyblue-color: #439aff;
+        --red-color: #eb5757;
+        --white-color: #fff;
+        --disabled-color: #4a5568;
+
+        /* shadow */
+        --main-shadow: rgba(255, 255, 255, 0.1);
+        --hover-shadow: rgba(255, 255, 255, 0.2);
+        --active-shadow: rgba(0, 0, 0, 0.2);
+      }
+
+      button {
+        width: 80px;
+        height: 30px;
+        border: solid 1px black;
+      }
+
+      /* 일반 */
+      .normal {
+        background-color: var(--main-color);
+        color: var(--lightgray-color);
+      }
+
+      .positive {
+        background-color: var(--main-color);
+        color: var(--skyblue-color);
+      }
+
+      .negative {
+        background-color: var(--main-color);
+        color: var(--red-color);
+      }
+
+      /* hover/active */
+      .normal:hover {
+        color: var(--white-color);
+        text-decoration: underline;
+      }
+
+      .positive:hover {
+        background-color: var(--skyblue-color);
+        color: var(--white-color);
+      }
+
+      .negative:hover {
+        background-color: var(--red-color);
+        color: var(--white-color);
+      }
+      /* shadow */
+      .normal,
+      .positive,
+      .negative {
+        box-shadow: inset 1px 1px var(--main-shadow);
+      }
+
+      .normal:hover,
+      .positive:hover,
+      .negative:hover {
+        box-shadow: inset 1px 1px var(--hover-shadow);
+      }
+
+      .normal:active,
+      .positive:active,
+      .negative:active {
+        box-shadow: inset 1px 1px var(--active-shadow);
+      }
+
+      /* border */
+      .positive:hover,
+      .positive:active {
+        border: var(--skyblue-color);
+      }
+
+      .negative:hover,
+      .negative:active {
+        border: var(--red-color);
+      }
+
+      /* disabled */
+      normal:disabled {
+        color: var(--disabled-color);
+      }
+    </style>
+  </head>
+  <body>
+    <button class="normal">Button</button>
+    <button class="positive">Yes</button>
+    <button class="negative">Del</button>
+  </body>
+</html>
