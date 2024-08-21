@@ -24,3 +24,4 @@
 - 요소에 margin값을 주어 각 컴포넌트 배치
 - 각 버튼에 들어가는 이미지는 디자인적 요소이므로 div값에 background-image삽입으로 처리
 - :root를 이용한 컬러사용
+![실습이미지](image.png)
