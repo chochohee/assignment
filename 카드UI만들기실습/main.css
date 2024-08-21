@@ -96,7 +96,7 @@ article {
   margin-top: 16px;
 }
 
-.card1 .card1-read {
+.card1 .read {
   margin-top: 16px;
 }
 
@@ -169,4 +169,20 @@ article {
 .card2 .icon-group button {
   width: 32px;
   height: 32px;
+}
+
+.card2 .read::after {
+  display: block;
+  content: "";
+  width: 4px;
+  height: 4px;
+
+  position: absolute;
+  left: 76px;
+  bottom: 25px;
+
+  border-style: solid;
+  border-width: 2px 2px 0 0;
+
+  transform: translate(-10px, 50%) rotate(45deg);
 }
