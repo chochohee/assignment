@@ -40,5 +40,6 @@
 - 시연확인 후 다시 구현해보기.
 - 블로그 article 구조를 생각해보며 적절히 a태그 사용하기
 - 완성이미지
-  
-  ![image](https://github.com/user-attachments/assets/a367fff5-3de5-4a9d-99af-b086cdfd5bc3)
+
+  ![image](https://github.com/user-attachments/assets/8cda04a7-5bd4-42b1-b4e6-62ff716f832b)
+
