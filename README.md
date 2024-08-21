@@ -15,7 +15,7 @@
 >  🛠 사용 기술스택 : HTML / CSS
 ## Dev history
 - :root 변수 사용하여 속성값 사용하는법 연습.
-- button 태그를 사용하여 button의 상태가 normal, hover, active, disabled 일때의 상황을 고려하여 작성
+- button 태그를 사용하여 button의 상태가 normal, hover, active, disabled 일때의 상황을 고려하여 작성  
 ![image](https://github.com/user-attachments/assets/6defe061-f85a-43ac-b4ff-6acfa2478e18)
 
 
@@ -25,5 +25,5 @@
 - 기존 html수업시간때 마크업 해두었던 로그인창에 CSS입히기.
 - 요소에 margin값을 주어 각 컴포넌트 배치
 - 각 버튼에 들어가는 이미지는 디자인적 요소이므로 div값에 background-image삽입으로 처리
-- :root를 이용한 컬러사용
+- :root를 이용한 컬러사용  
 ![image](https://github.com/user-attachments/assets/6d4d579a-aeb5-4b96-ab88-b0d164e1b857)
