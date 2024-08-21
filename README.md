@@ -18,7 +18,7 @@
 - button 태그를 사용하여 button의 상태가 normal, hover, active, disabled 일때의 상황을 고려하여 작성
 
 # ✨ 24-08-21 과제 [로그인창 CSS]
-> 🛠 사용 기술스택 : HTML / CS
+> 🛠 사용 기술스택 : HTML / CSS
 ## Dev history
 - 기존 html수업시간때 마크업 해두었던 로그인창에 CSS입히기.
 - 요소에 margin값을 주어 각 컴포넌트 배치
