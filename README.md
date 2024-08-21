@@ -11,7 +11,7 @@
 - HTML을 통해 시네마틱한 마크업진행해보기.
 - CSS 및 JS를 배워 지속적으로 devlope할것
 
-# ✨ 24-08-20 과제 [버튼구현] // 제작완료
+# ✨ 24-08-20 과제 [버튼구현]
 >  🛠 사용 기술스택 : HTML / CSS
 ## Dev history
 - :root 변수 사용하여 속성값 사용하는법 연습.
@@ -31,3 +31,15 @@
 - 완성이미지
 
   ![image](https://github.com/user-attachments/assets/907e3215-dc98-4482-b692-83704e2ddca6)
+
+# ✨ 24-08-21 수업실습 [Card 구현]
+> 🛠 사용 기술스택 : HTML / CSS
+## Dev history
+- 당일 수업시간에 자유롭게 구현한 Card요소 두가지 구현하기
+- 개인제작으로 뷰 구현 이후 강사님의 시연
+- 시연확인 후 다시 구현해보기.
+- 블로그 article 구조를 생각해보며 적절히 a태그 사용하기
+- 완성이미지
+
+  ![image](https://github.com/user-attachments/assets/8cda04a7-5bd4-42b1-b4e6-62ff716f832b)
+
