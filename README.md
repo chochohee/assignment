@@ -17,7 +17,7 @@
 - :root 변수 사용하여 속성값 사용하는법 연습.
 - button 태그를 사용하여 button의 상태가 normal, hover, active, disabled 일때의 상황을 고려하여 작성
 - 완성이미지
-- 
+ 
   ![image](https://github.com/user-attachments/assets/56db4075-193f-4205-bdcd-7175383fb4f3)
 
 
@@ -29,5 +29,5 @@
 - 각 버튼에 들어가는 이미지는 디자인적 요소이므로 div값에 background-image삽입으로 처리
 - :root를 이용한 컬러사용
 - 완성이미지
-- 
+
   ![image](https://github.com/user-attachments/assets/907e3215-dc98-4482-b692-83704e2ddca6)
