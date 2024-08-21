@@ -11,17 +11,18 @@
 - HTML을 통해 시네마틱한 마크업진행해보기.
 - CSS 및 JS를 배워 지속적으로 devlope할것
 
-# ✨ 24-08-20 과제 [버튼구현]
+# ✨ 24-08-20 과제 [버튼구현] // 제작완료
 >  🛠 사용 기술스택 : HTML / CSS
 ## Dev history
 - :root 변수 사용하여 속성값 사용하는법 연습.
 - button 태그를 사용하여 button의 상태가 normal, hover, active, disabled 일때의 상황을 고려하여 작성
+![완성이미지](image-1.png)
 
-# ✨ 24-08-21 과제 [로그인창 CSS]
+# ✨ 24-08-21 과제 [로그인창 CSS] // 제작완료
 > 🛠 사용 기술스택 : HTML / CS
 ## Dev history
 - 기존 html수업시간때 마크업 해두었던 로그인창에 CSS입히기.
 - 요소에 margin값을 주어 각 컴포넌트 배치
 - 각 버튼에 들어가는 이미지는 디자인적 요소이므로 div값에 background-image삽입으로 처리
 - :root를 이용한 컬러사용
-![실습이미지](image.png)
+![완성이미지](image.png)
