@@ -1,4 +1,4 @@
-# ✨ [버튼구현]
+# ✨ basic_create_button
 >  🛠 사용 기술스택 : HTML / CSS
 ## Dev history
 - :root 변수 사용하여 속성값 사용하는법 연습.
